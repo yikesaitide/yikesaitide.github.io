@@ -6,7 +6,7 @@ sep: true
 ---
 
 
-### Who I am
+# Who I am
 
 * A PhD candidate in Political Science at Tulane University
 * A caligragher
