@@ -98,9 +98,11 @@ navigation_header:
   Home: /
   Book Project: /book_project/
   Papers: /my_papers/
+  Teaching: /teaching/
   CV: /CV/
-  Hurun Rich List: /hurun_list/
+  Hu Run's Rich List: /hurun_list/
   Contact: /contact/
+  Search: /search/
 
 navigation_footer:
   Powered by Jekyll: https://jekyllrb.com

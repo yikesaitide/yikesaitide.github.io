@@ -1,6 +1,6 @@
 ---
-title: Hu Run Rich List
-excerpt: "Hu Run rich list"
+title: Teaching
+excerpt: "Courses I teached"
 aside: false
 idphoto: false
 sep: true

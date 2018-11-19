@@ -1,4 +1,5 @@
 ---
+title: CV
 excerpt: "A copy of my CV"
 aside: false
 idphoto: false

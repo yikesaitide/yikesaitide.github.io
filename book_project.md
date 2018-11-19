@@ -1,4 +1,5 @@
 ---
+title: Book Project
 excerpt: "My book projects"
 aside: false
 idphoto: false
