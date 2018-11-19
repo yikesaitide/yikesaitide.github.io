@@ -83,9 +83,9 @@ lang: en-GB # Set the site language
 title: "Zhu ZHANG" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "This is Zhu, a political scientist" # Site description and default description, also used in jekyll-seo-tag
-url: "https://randomwalk10.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://yikesaitide.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/randomwalk10"
+repo: "https://github.com/yikesaitide"
 email: "anne1220@hotmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "/assets/favicon/" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
