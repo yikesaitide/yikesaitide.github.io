@@ -5,4 +5,4 @@ idphoto: false
 sep: true
 ---
 
-[my_cv](/assets/main.pdf)
+## More to come...

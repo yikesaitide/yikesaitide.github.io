@@ -6,10 +6,6 @@ sep: true
 ---
 
 ### Who I am
-* An engineer by training
-* A craftman by heart
-
-### What I love to do:
-* programming
-* math and statistics
-* solve hard problems
+* A PhD candidate in Political Science at Tulane University
+* A caligragher
+* A coffee addict
