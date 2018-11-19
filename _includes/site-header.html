@@ -10,6 +10,10 @@
     {% include nav-header.html %}
   </div>
 
-  {% include site-feature.html %}
+  {% if page.sep %}
+    <hr>
+  {% else %}
+    {% include site-feature.html %}
+  {% endif %}
 
 </header>

@@ -80,13 +80,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Xuemeng Zhang" # Site name or title, also used in jekyll-seo-tag
+title: "Zhu ZHANG" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "This is Xuemeng, an ML/AL/Data enthusiast" # Site description and default description, also used in jekyll-seo-tag
+description: "This is Zhu, a political scientist" # Site description and default description, also used in jekyll-seo-tag
 url: "https://randomwalk10.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/randomwalk10"
-email: "nxzhangxm@gmail.com"
+email: "anne1220@hotmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "/assets/favicon/" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
@@ -96,11 +96,11 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  #Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
-  Search: /search/
-  #Fork Alembic: https://github.com/daviddarnes/alembic
+  Book Project: /book_project/
+  Papers: /my_papers/
+  CV: /CV/
+  Hurun Rich List: /hurun_list/
+  Contact: /contact/
 
 navigation_footer:
   Powered by Jekyll: https://jekyllrb.com

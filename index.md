@@ -1,11 +1,8 @@
 ---
-title: About
-feature_text: |
-  Build things.
-feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "Build things."
+excerpt: "About me"
 aside: false
 idphoto: true
+sep: true
 ---
 
 ### Who I am
