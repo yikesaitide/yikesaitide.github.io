@@ -1,4 +1,5 @@
 ---
+title: false
 excerpt: "About me"
 aside: false
 idphoto: true
