@@ -8,6 +8,6 @@ sep: true
 
 <br/>
 <br/>
-[My CV](/assets/Zhu_Zhang_CV)
+[My CV](/assets/Zhu_Zhang_CV.pdf)
 
 
