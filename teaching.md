@@ -19,7 +19,7 @@ POLS 2010: Scope and Methods of Political Science; Fall 2016
 <br/>
 -- Teaching Assistant to Professor Mirya Holman
 
-* **School of Politics and Global Studies, The Arizona State University**<br/>
+* **School of Politics and Global Studies, Arizona State University**<br/>
 MGT 494: Technology, Industry and Management in China; Spring 2014<br/>
 -- Guest Lecture; "The Politics of Transportation in China"
 
