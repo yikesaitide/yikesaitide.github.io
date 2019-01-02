@@ -12,7 +12,7 @@ sep: true
 {% include figure.html image="/assets/Tulane.jpg" caption="Mardi Gras Bead Tree" position="right" width="420" height="420" %}
 
 <br/>
-Political Science<br/>
+Political Science Department<br/>
 Tulane University<br/>
 316 Norman Mayer<br/>
 New Orleans, LA 70118<br/>
