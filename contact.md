@@ -8,6 +8,7 @@ sep: true
 
 
 
+{% include figure.html image="/assets/Tulane.jpg" caption="Hurun Research Center in Shanghai" position="right" width="450" height="450" %}
 
 <br/>
 Political Science<br/>
