@@ -29,6 +29,6 @@ POS 452: China Politics; Fall 2013<br/>
 * **Asian Studies, The Pennsylvania State University**<br/>
 CHNS001, CHNS002, and CHNS110: Chinese; Summer 2010; Fall 2010
 <br/>
--- Chinese Language Lecture
+-- Chinese Language Instructor
 
 
