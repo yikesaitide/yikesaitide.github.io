@@ -7,6 +7,7 @@ sep: true
 ---
 
 
+<br/>
 
 {% include figure.html image="/assets/Tulane.jpg" caption="Mardi Gras Bead Tree" position="right" width="420" height="420" %}
 
