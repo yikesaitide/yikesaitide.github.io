@@ -9,7 +9,7 @@ sep: true
 
 <br/>
 
-{% include figure.html image="/assets/Tulane.jpg" caption="Mardi Gras Bead Tree" position="right" width="400" height="400" %}
+{% include figure.html image="/assets/Tulane.jpg" caption="Mardi Gras Bead Tree" position="right" width="380" height="380" %}
 
 <br/>
 Political Science Department<br/>
