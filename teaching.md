@@ -6,8 +6,6 @@ idphoto: false
 sep: true
 ---
 
-## Teaching Experience 
-
 * **Political Science Department, Tulane University**<br/>
 POLC 2300: Intro to Comparative Politics; Fall 2018
 <br/>
