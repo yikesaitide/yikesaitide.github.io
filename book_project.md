@@ -6,5 +6,6 @@ idphoto: false
 sep: true
 ---
 
-
-### More to come...
+<img style="float: right;" src= "/assets/Book.jpg" alt="Hurun Research Center in Shanghai"> 
+<br/>
+My disseration book project 
