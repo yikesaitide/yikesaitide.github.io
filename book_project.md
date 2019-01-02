@@ -6,14 +6,6 @@ idphoto: false
 sep: true
 ---
 
-<figure>
-	<img style="float: right;" src= "/assets/Book.jpg" width="300"/>
-	<figcaption>Hurun Research Center in Shanghai</figcaption>
-</figure>
+{% include figure.html image="/assets/Book.jpg" caption="Hurun Research Center in Shanghai" position="right" width="300" height="300" %}
 <br/>
 My disseration book project 
-<br/>
-<figure>
-	<img style="float: right;" src= "/assets/Book.jpg" width="300"/>
-	<figcaption>Hurun Research Center in Shanghai</figcaption>
-</figure>
