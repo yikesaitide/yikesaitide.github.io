@@ -9,7 +9,6 @@ sep: true
 Teaching Experience 
 
 * **Political Science Department, Tulane University** 
-
 POLC 2300: Intro to Comparative Politics; Fall 2018
 <br/>
 -- Teaching Assistant to Professor Eduardo Silva
@@ -23,7 +22,6 @@ POLS 2010: Scope and Methods of Political Science; Fall 2016
 -- Teaching Assistant to Professor Mirya Holman
 
 * **Asian Studies, The Pennsylvania State University**
-
 CHNS001, CHNS002, and CHNS110: Chinese; Summer 2010; Fall 2010
 <br/>
 -- Chinese Language Lecture
