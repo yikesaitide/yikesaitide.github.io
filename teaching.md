@@ -22,4 +22,12 @@ POLS 2010: Scope and Methods of Political Science; Fall 2016
 <br/>
 ---- Teaching Assistant to Professor Mirya Holman
 
+* **Asian Studies, The Pennsylvania State University**
+
+CHNS001, CHNS002, and CHNS110: Chinese Lanuage; Summer 2010 and Fall 2010
+<br/>
+---- Chinese Language Lecture
+
+
+
 
