@@ -14,7 +14,7 @@ Martin K. Dimitrov and Zhu Zhang, “The Political Economy of Stability Maintena
 * **Working Papers**
 <br/>
 “Patterns of Protest Activity in China” (with Martin K. Dimitrov; submit to a journal by January 2019)
-
+<br/>
 “The Changing Characteristics of Chinese Private Sector Elites and Their Relationship with the Communist Party: An In-depth Analysis of China Rich List”
-
+<br/>
 “Why China’s Capitalists Start to Do Good Work: Public Welfare and Property Rights in China”
