@@ -1,3 +1,3 @@
 # yikesaitide.github.io
 # zhu-zhang.com
-welcome
+This is project repo for zhu-zhang.com hosted by github pages.
