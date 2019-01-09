@@ -8,4 +8,4 @@ sep: true
 
 <br/>
 <br/>
-[My CV](/assets/Zhu_Zhang_CV.pdf) (updated: Jan 2019)
+[My CV](./assets/Zhu_Zhang_CV.pdf) (updated: Jan 2019)
