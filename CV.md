@@ -8,4 +8,4 @@ sep: true
 
 <br/>
 <br/>
-[My CV](./assets/Zhu_Zhang_CV.pdf) (updated: Jan 2019)
+[My CV](https://drive.google.com/open?id=1J6S2HHsXPYDb4pqsXHdVSUJ9GeB1nMpk) (updated: Jan 2019)
