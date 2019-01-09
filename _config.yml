@@ -83,7 +83,7 @@ lang: en-GB # Set the site language
 title: "Zhu ZHANG" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "This is Zhu, a political scientist" # Site description and default description, also used in jekyll-seo-tag
-url: "https://yikesaitide.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://zhu-zhang.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/yikesaitide"
 email: "zzhang11@tulane.edu"
@@ -96,7 +96,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Dissertation: /book_project/
+  Dissertation: /dissertation/
   Papers: /my_papers/
   Teaching: /teaching/
   CV: /CV/
