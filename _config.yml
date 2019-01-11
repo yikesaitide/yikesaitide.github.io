@@ -41,16 +41,13 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: zhu_zhang # jekyll-seo-tag > Owners twitter username
+author: Zhu Zhang # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Zhu Zhang # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/zhu_zhang
+    - https://liberalarts.tulane.edu/departments/political-science/people/zhu-zhang
 
 # 4. Jekyll settings
 sass:
@@ -82,7 +79,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Zhu ZHANG" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "This is Zhu, a political scientist" # Site description and default description, also used in jekyll-seo-tag
+description: "political science, comparative politics, Chinese politics, Tulane" # Site description and default description, also used in jekyll-seo-tag
 url: "https://zhu-zhang.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/yikesaitide"
