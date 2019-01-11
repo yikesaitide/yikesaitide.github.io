@@ -1,6 +1,6 @@
 ---
 title: Contact Me
-excerpt: "Contact me"
+excerpt: "My address, phone, and email"
 aside: false
 idphoto: false
 sep: true
