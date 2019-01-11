@@ -1,6 +1,6 @@
 ---
 title: Home
-excerpt: "About me"
+excerpt: "political science, comparative politics, Chinese politics, Tulane, PhD"
 aside: false
 idphoto: true
 sep: true
