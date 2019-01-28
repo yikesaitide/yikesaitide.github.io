@@ -1,6 +1,6 @@
 ---
 title: Home
-excerpt: "political science, comparative politics, Chinese politics, Tulane, PhD"
+excerpt: "Political Science, Comparative Politics, China Politics, Tulane, PhD"
 aside: false
 idphoto: true
 sep: true
