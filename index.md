@@ -9,7 +9,7 @@ sep: true
 
 # Welcome!
 
-I am a Ph.D. Candidate in Political Science at Tulane University, with a major field in comparative politics. In Fall 2019, I will be joining Stanford University as a pre-doctoral fellow at the Center on Democracy, Development and the Rule of Law for one academic year. 
+I am a pre-doctoral fellow at the Center on Democracy, Development and the Rule of Law at Stanford University, and a Ph.D. Candidate in Political Science at Tulane University, with a major field in comparative politics. 
 
 I study authoritarianism with particular interests in state-business relations and Chinese politics. My dissertation *"Wealth without Power: The Rise of Chinese Private Business Elites and Their Relationship to the Communist Party”* examines how the CCP incorporates and controls the rising super rich in China in order to prevent state capture and stay in power. My research on China is part of a broader agenda that looks at the state-business relationship in transitional regimes and authoritarian resilience.
 
