@@ -12,11 +12,10 @@ sep: true
 {% include figure.html image="/assets/Tulane.jpg" caption="Mardi Gras Bead Tree on campus" position="right" width="380" height="380" %}
 
 <br/>
-Political Science Department<br/>
-Tulane University<br/>
-316 Norman Mayer<br/>
-New Orleans, LA 70118<br/>
+Encina Hall<br/>
+616 Serra Street<br/>
+Stanford, CA 94305-6055<br/>
 
 
-Phone: 504-865-5166<br/>
-zzhang11@tulane.edu
+Phone: 650-723-4581<br/>
+zhuzhang@stanford.edu
