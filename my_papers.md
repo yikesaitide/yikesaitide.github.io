@@ -22,4 +22,4 @@ Martin K. Dimitrov and Zhu Zhang, “The Political Economy of Stability Maintena
 “The Changing Characteristics of Chinese Private Sector Elites and Their Relationship with the Communist Party: An In-depth Analysis of China Rich List”
 <br/>
 <br/>
-“Why China’s Capitalists Start to Do Good Work: Public Welfare and Property Rights in China”
+“How the Communist Party Prevents State Capture with the Rise of Super-rich in China”
