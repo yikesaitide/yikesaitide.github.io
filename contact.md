@@ -14,8 +14,9 @@ sep: true
 <br/>
 The University of Oklahoma<br/>
 David L. Boren College of International Studies<br/>
-Farzaneh Hall, Offcie 226<br/>
+Farzaneh Hall, Office 226<br/>
 729 Elm Ave<br/>
 Norman, OK 73019-2105<br/>
+<br/>
 Phone: 405-325-1346<br/>
 zzhang11@tulane.edu
