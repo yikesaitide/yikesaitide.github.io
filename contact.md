@@ -12,10 +12,10 @@ sep: true
 {% include figure.html image="/assets/Tulane.jpg" caption="Mardi Gras Bead Tree on Tulane campus" position="right" width="380" height="380" %}
 
 <br/>
-CDDRL<br/>
-Encina Hall<br/>
-616 Serra Street<br/>
-Stanford, CA 94305-6055<br/>
+institute for US-China Issues<br/>
+Offcie 226, Farzaneh Hall<br/>
+729 Elm Ave<br/>
+Norman, OK 73019-2105<br/>
 <br/>
-Phone: 650-723-4581<br/>
-zhuzhang@stanford.edu
+Phone: 405-325-1346<br/>
+zzhang11@tulane.edu
