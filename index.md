@@ -9,7 +9,7 @@ sep: true
 
 # Welcome!
 
-I am a Newman Psot-Doctoral Fellow at the University of Oklahoma's Institute for US-China Issues in the College of International Studies. 
+I am a Newman Post-Doctoral Fellow at the University of Oklahoma's Institute for US-China Issues in the College of International Studies. 
 
 My research studies authoritarianism with particular interests in state-business relations and Chinese politics. My book project, *"Wealth without Power: The Rise of Chinese Private Business Elites and Their Relationship to the Communist Party”* examines how the CCP incorporates and controls the rising super rich in China in order to prevent state capture and stay in power. My research on China is part of a broader agenda that looks at the state-business relationship in transitional regimes and authoritarian resilience.
 
