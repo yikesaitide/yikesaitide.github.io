@@ -14,7 +14,6 @@ sep: true
 <br/>
 The University of Oklahoma<br/>
 David L. Boren College of International Studies<br/>
-Institute for US-China Issues<br/>
 Offcie 226, Farzaneh Hall<br/>
 729 Elm Ave<br/>
 Norman, OK 73019-2105<br/>
