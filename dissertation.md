@@ -1,5 +1,5 @@
 ---
-title: Book Project
+title: dissertation
 layout: dissertation
 excerpt: "My PhD dissertation"
 aside: false
