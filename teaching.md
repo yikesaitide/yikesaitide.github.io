@@ -9,6 +9,8 @@ sep: true
 * **School of International Studies, The University of Oklahoma**<br/>
 IAS 3143: Chinese Politics
 <br/>
+-- Instructor
+<br/>
 <br/>
 * **Political Science Department, Tulane University**<br/>
 POLS 2010: Scope and Methods of Political Science; Spring 2021; Fall 2020
