@@ -8,4 +8,4 @@ sep: true
 
 <br/>
 <br/>
-[My CV](https://drive.google.com/open?id=1DHpCdXlSG2sUiomgesVdcb7-PqIWaYoy) (updated: Aug 2019)
+[My CV](https://drive.google.com/file/d/1dgzmj0YrcP5A70_DkSVcjaKFvqWGUWe0/view?usp=sharing) (updated: Oct 2021)
