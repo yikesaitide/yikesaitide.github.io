@@ -8,7 +8,7 @@ sep: true
 
 * **Publications**
 <br/>
-Martin K. Dimitrov and Zhu Zhang, “The Political Economy of Stability Maintenance under Xi Jinping” in *China’s Political Economy under Xi Jinping*, edited by Lowell Dittmer and Chung-min Tsai (Rowman and Littlefield, forthcoming)
+Martin K. Dimitrov and Zhu Zhang, “The Political Economy of Stability Maintenance under Xi Jinping” in *China’s Political Economy in the Xi Jinping Epoch*, edited by Lowell Dittmer (World Scientific, 2021), pp.127-162.
 <br/>
 <br/>
 * **Working Papers**
@@ -19,7 +19,7 @@ Martin K. Dimitrov and Zhu Zhang, “The Political Economy of Stability Maintena
 "Local Economic Crises and Electoral Consequences in the United States" (with Mirya R. Holman)
 <br/>
 <br/>
+“From Corruption Control to Everything Control: The Evolving Uses of Party Inspections in Xi’s China” (with Christopher Carothers)
+<br/>
+<br/>
 “The Changing Characteristics of Chinese Private Sector Elites and Their Relationship with the Communist Party: An In-depth Analysis of China Rich List”
-<br/>
-<br/>
-“How the Communist Party Prevents State Capture with the Rise of Super-rich in China”
