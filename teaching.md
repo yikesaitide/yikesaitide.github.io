@@ -6,7 +6,16 @@ idphoto: false
 sep: true
 ---
 
+* **School of International Studies, The University of Oklahoma**<br/>
+IAS 3143: Chinese Politics
+<br/>
+<br/>
 * **Political Science Department, Tulane University**<br/>
+POLS 2010: Scope and Methods of Political Science; Spring 2021; Fall 2020
+<br/>
+-- Instructor 
+<br/>
+<br/>
 POLC 2300: Intro to Comparative Politics; Fall 2018
 <br/>
 -- Teaching Assistant to Professor Eduardo Silva
