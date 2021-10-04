@@ -7,7 +7,7 @@ sep: true
 ---
 
 * **School of International Studies, The University of Oklahoma**<br/>
-IAS 3143: Chinese Politics
+IAS 3143: Chinese Politics; Spring 2022
 <br/>
 -- Instructor
 <br/>
