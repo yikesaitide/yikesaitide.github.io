@@ -22,4 +22,4 @@ Martin K. Dimitrov and Zhu Zhang, “The Political Economy of Stability Maintena
 “From Corruption Control to Everything Control: The Evolving Uses of Party Inspections in Xi’s China” (with Christopher Carothers)
 <br/>
 <br/>
-“The Changing Characteristics of Chinese Private Sector Elites and Their Relationship with the Communist Party: An In-depth Analysis of China Rich List”
+"Winning Economic Elites in China: The Role of the United Front Work Department"
