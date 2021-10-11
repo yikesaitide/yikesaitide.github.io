@@ -18,4 +18,4 @@ Farzaneh Hall, Room 226<br/>
 Norman, OK 73019-2105<br/>
 <br/>
 Phone: 405-325-1346<br/>
-zzhang11@tulane.edu
+zhuzhang@ou.edu
