@@ -16,5 +16,4 @@ Martin K. Dimitrov and Zhu Zhang, “The Political Economy of Stability Maintena
 Zhu Zhang, “China’s Emerging Role in Global Science and Technology Cooperation and Competition,” *Sociology: A Think Tank Report*, 2018 (2), 38-45 (in Chinese)
 <br/>
 <br/>
-* **Working Papers**<br/>
 
