@@ -7,7 +7,7 @@ sep: true
 ---
 **Dissertation** <br/>
 <br/>
-*"Wealth without Power: The Rise of China's SUper-rich and Their Relationship With the Communist Party"* Tulane University Digital Library, August 2021. 
+"Wealth without Power: The Rise of China's SUper-rich and Their Relationship With the Communist Party," Tulane University Digital Library, August 2021. 
 <br/>
 <br/>
 **Peer-Reviewed Articles**<br/>
