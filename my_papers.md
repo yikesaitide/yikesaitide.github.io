@@ -23,7 +23,6 @@ Zhu Zhang, “China’s Emerging Role in Global Science and Technology Cooperati
 <br/>
 * **Conference Proceeding Papers** <br/>
 <br/>
-<br/>
 “How China Learned to Avoid Russian-style State Capture” (Southern Political Science Association Annual Conference 2022)
 <br/>
 <br/>
