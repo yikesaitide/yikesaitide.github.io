@@ -23,14 +23,20 @@ Zhu Zhang, “China’s Emerging Role in Global Science and Technology Cooperati
 <br/>
 * **Conference Proceeding Papers** <br/>
 <br/>
+<br/>
 “How China Learned to Avoid Russian-style State Capture” (Southern Political Science Association Annual Conference 2022)
+<br/>
 <br/>
 “Winning Economic Elites in China” (Business History Conference 2020)
 <br/>
+<br/>
 “To Win the Super-Rich Over: How Does the CCP Incorporate Its Private Business Elites” (Association for Asian Studies 2020)
+<br/>
 <br/>
 “Circle of Friends: A Network Analysis of the South China Sea Arbitration” (Midwest Political Science Association 2017)
 <br/>
+<br/>
 “The Changing Characteristics of Chinese Private Sector Elites and Their Relationship with the Communist Party: An In-depth Analysis of China Rich List” (Midwest Political Science Association 2016)
-<br>
+<br/>
+<br/>
 “Understanding Advancement of Central Committee Members of the Communist Party of China” (with Daniel Shaughnessy) (Southern Political Science Association 2015)
