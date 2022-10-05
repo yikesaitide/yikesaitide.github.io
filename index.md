@@ -9,7 +9,7 @@ sep: true
 
 # Welcome!
 
-I am an Assistant Professor of Politics at <a href="https://www.fairfield.edu/" style="color: red;text-decoration: no underline;">Fairfield University</a>. My areas of research and teaching focus on communist and post-communist regimes with particular interests in state-business relations and Chinese politics. 
+I am an Assistant Professor of Politics at <a href="https://www.fairfield.edu/" style="color: red;text-decoration: no underline;text-decoration:bold">Fairfield University</a>. My areas of research and teaching focus on communist and post-communist regimes with particular interests in state-business relations and Chinese politics. 
 
 My book project, *"Wealth without Power: The Rise of Chinese Private Business Elites and Their Relationship to the Communist Party”* examines how the Chinese Communist Party prevents state capture by incorporating and controlling the rising super-rich in China's private sector. My research on China is a part of a broader investigation into the state-business relationships in transitional regimes and authoritarian resilience.
 
