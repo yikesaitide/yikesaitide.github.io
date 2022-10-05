@@ -12,10 +12,11 @@ sep: true
 {% include figure.html image="/assets/Tulane.jpg" caption="Mardi Gras Bead Tree on Tulane campus" position="right" width="380" height="380" %}
 
 <br/>
-The University of Oklahoma<br/>
-David L. Boren College of International Studies<br/>
-Farzaneh Hall, Room 226<br/>
-Norman, OK 73019-2105<br/>
+Fairfield University<br/>
+College of Arts & Sciences<br/>
+Donnarumma Hall, Room 308<br/>
+Fairfield, CT 06824-5195
 <br/>
-Phone: 405-325-1346<br/>
-zzhang11@tulane.edu
+<br/>
+Phone: 203-254-4000<br/>
+zzhang@fairfield.edu
