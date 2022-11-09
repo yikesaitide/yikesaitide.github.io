@@ -18,5 +18,5 @@ Donnarumma Hall, Room 308<br/>
 Fairfield, CT 06824-5195
 <br/>
 <br/>
-Phone: 203-254-4000<br/>
+Phone: 203-254-4000, ext.2391<br/>
 zzhang@fairfield.edu
